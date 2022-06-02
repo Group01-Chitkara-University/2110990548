@@ -2,6 +2,7 @@
 #include<list>
 
 using namespace std;
+//aABCD 
 
 void display(list<int> &lst){
     list<int> :: iterator it;
