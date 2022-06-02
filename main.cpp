@@ -2,6 +2,7 @@
 #include<list>
 
 using namespace std;
+//basic list function
 
 void display(list<int> &lst){
     list<int> :: iterator it;
