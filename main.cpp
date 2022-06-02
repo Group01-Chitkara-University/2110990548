@@ -2,7 +2,11 @@
 #include<list>
 
 using namespace std;
+ 
 //basic list function
+
+//aABCD 
+
 
 void display(list<int> &lst){
     list<int> :: iterator it;
